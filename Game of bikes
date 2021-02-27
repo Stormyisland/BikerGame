@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="My game" content="this is an example of a meta discription. This will often show up in search results">
+    <meta name =viewport content="widith=device-width, initial scale=1">
+    <title></title>
+    <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+
+  <div class="header">
+   <p>Play the the game!</p>
+    <h2>Choose your bike!</h2>
+  </div>
+
+  <div class="interface">
+    <a href="#">
+      <img src="img/Desktop/Bikergame/avatar-player/warrior 2.jpg" alt="warrior 2.png">
+    <div>
+    <h3>Warrior</h3>
+    <p>Warriors have higher health and stamina, however their strength also makes them slower and harder to handle.</p>
+    </div>
+    </a>
+    <a href="#">
+      <img src="img/Desktop/Bikergame/avatar-player/rouge.jpg" alt="rouge .jpg">
+    <div>
+    <h3>Rouge</h3>
+    <p>Rouges are fast and have stamina and speed witch make up for their lack of strength and health.  </p>
+    </div>
+    </a>
+
+    <a href="#">
+      <img src="img/Desktop/Bikergame/avatar-player/mage.jpg" alt="mage.png">
+    <div>
+    <h3>Mage</h3>
+    <p>Mages are glass canons which put all thier efforts into spells. This means they stack on everything else.</p>
+    </div>
+    </a>
+    <a href="#">
+      <img src="img/Desktop/Bikergame/avatar-player/hunter.png" alt="hunter.png">
+    <div>
+    <h3>Warrior</h3>
+    <p>hunters are well rounded fighters that focuw on evening out their skill. no strengths or weeaknessed</p>
+    </div>
+    </a>
+  </div>
+
+
+
+  <div class="actions">
+
+  </div>
+
+  <div class="arena">
+
+  </div>
+
+  <div class="enemy">
+
+  </div>
+
+
+  </body>
+
+</html>
